@@ -43,6 +43,8 @@ Here is the list of Massive Open Online Courses (MOOCs) useful for people who ar
 ##Machine Learning
 [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
 
+[Learning from Data](https://work.caltech.edu/telecourse.html)
+
 [Introduction to Linear Models and Matrix Algebra](https://www.edx.org/course/introduction-linear-models-matrix-harvardx-ph525-2x)
 
 ## Statistics for Life Science
