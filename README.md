@@ -41,7 +41,7 @@ Here is the list of Massive Open Online Courses (MOOCs) useful for people who ar
 [Network Analysis in Systems Biology](https://www.coursera.org/course/netsysbio)
 
 ##Machine Learning
-[Machine Learning by Andrew Ang](https://www.coursera.org/learn/machine-learning)
+[Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
 
 [Introduction to Linear Models and Matrix Algebra](https://www.edx.org/course/introduction-linear-models-matrix-harvardx-ph525-2x)
 
