@@ -4,98 +4,98 @@ Here is the list of Massive Open Online Courses (MOOCs) useful for people who ar
 
 ## Bioinformatics and Computational Biology
 
-[Bioinformatics Algorithms I](https://www.coursera.org/course/bioinformatics)
+- [Bioinformatics Algorithms I](https://www.coursera.org/course/bioinformatics)
 
-[Bioinformatics Methods I](https://www.coursera.org/course/bioinfomethods1)
+- [Bioinformatics Methods I](https://www.coursera.org/course/bioinfomethods1)
 
-[Bioinformatics Methods II](https://www.coursera.org/course/bioinfomethods2)
+- [Bioinformatics Methods II](https://www.coursera.org/course/bioinfomethods2)
 
-[Finding Hidden Messages in DNA (Bioinformatics I) ](https://www.coursera.org/course/hiddenmessages)
+- [Finding Hidden Messages in DNA (Bioinformatics I) ](https://www.coursera.org/course/hiddenmessages)
 
-[Genome Sequencing (Bioinformatics II) ](https://www.coursera.org/course/assembly)
+- [Genome Sequencing (Bioinformatics II) ](https://www.coursera.org/course/assembly)
 
-[Comparing Genes, Proteins, and Genomes (Bioinformatics III) ](https://www.coursera.org/course/comparinggenomes)
+- [Comparing Genes, Proteins, and Genomes (Bioinformatics III) ](https://www.coursera.org/course/comparinggenomes)
 
-[Deciphering Molecular Evolution (Bioinformatics IV) ](https://www.coursera.org/course/molecularevolution)
+- [Deciphering Molecular Evolution (Bioinformatics IV) ](https://www.coursera.org/course/molecularevolution)
 
-[Finding Mutations in DNA and Proteins (Bioinformatics VI) ](https://www.coursera.org/course/mutations)
+- [Finding Mutations in DNA and Proteins (Bioinformatics VI) ](https://www.coursera.org/course/mutations)
 
-[Cancer in the 21st Century: The Genomic Revolution](https://www.futurelearn.com/courses/cancer-and-the-genomic-revolution)
+- [Cancer in the 21st Century: The Genomic Revolution](https://www.futurelearn.com/courses/cancer-and-the-genomic-revolution)
 
-[Genes and the Human Condition (From Behavior to Biotechnology)](https://www.coursera.org/course/genes)
+- [Genes and the Human Condition (From Behavior to Biotechnology)](https://www.coursera.org/course/genes)
 
-[Case study: RNA-seq data analysis](https://www.edx.org/course/case-study-rna-seq-data-analysis-harvardx-ph525-5x)
+- [Case study: RNA-seq data analysis](https://www.edx.org/course/case-study-rna-seq-data-analysis-harvardx-ph525-5x)
 
-[Case study: Variant Discovery and Genotyping](https://www.edx.org/course/case-study-variant-discovery-genotyping-harvardx-ph525-6x)
+- [Case study: Variant Discovery and Genotyping](https://www.edx.org/course/case-study-variant-discovery-genotyping-harvardx-ph525-6x)
 
-[Case study: ChIP-seq data analysis](https://www.edx.org/course/case-study-chip-seq-data-analysis-harvardx-ph525-7x)
+- [Case study: ChIP-seq data analysis](https://www.edx.org/course/case-study-chip-seq-data-analysis-harvardx-ph525-7x)
 
-[Case study: DNA methylation data analysis](https://www.edx.org/course/case-study-dna-methylation-data-analysis-harvardx-ph525-8x)
+- [Case study: DNA methylation data analysis](https://www.edx.org/course/case-study-dna-methylation-data-analysis-harvardx-ph525-8x)
 
-[Genomic Data Science with Galaxy ](https://www.coursera.org/course/gengalaxy)
+- [Genomic Data Science with Galaxy ](https://www.coursera.org/course/gengalaxy)
 
 
 ## Algorithm and Programming
-[Algorithms, Biology, and Programming for Beginners](https://www.coursera.org/course/algobioprogramming)
+- [Algorithms, Biology, and Programming for Beginners](https://www.coursera.org/course/algobioprogramming)
 
-[Python for Genomic Data Science ](https://www.coursera.org/course/genpython)
+- [Python for Genomic Data Science ](https://www.coursera.org/course/genpython)
 
-[Command Line Tools for Genomic Data Science ](https://www.coursera.org/course/gencommand)
+- [Command Line Tools for Genomic Data Science ](https://www.coursera.org/course/gencommand)
 
-[Algorithms for DNA Sequencing ](https://www.coursera.org/course/ads1)
+- [Algorithms for DNA Sequencing ](https://www.coursera.org/course/ads1)
 
-[Bioconductor for Genomic Data Science ](https://www.coursera.org/course/genbioconductor)
+- [Bioconductor for Genomic Data Science ](https://www.coursera.org/course/genbioconductor)
 
-[Introduction to Bioconductor](https://www.edx.org/course/introduction-bioconductor-harvardx-ph525-4x)
+- [Introduction to Bioconductor](https://www.edx.org/course/introduction-bioconductor-harvardx-ph525-4x)
 
 
 ## Genomics, Epigenomics
-[Introduction to Genomic Technologies ](https://www.coursera.org/course/genintro)
+- [Introduction to Genomic Technologies ](https://www.coursera.org/course/genintro)
 
-[Epigenetic Control of Gene Expression](https://www.coursera.org/course/epigenetics)
+- [Epigenetic Control of Gene Expression](https://www.coursera.org/course/epigenetics)
 
-[Experimental Genome Science](https://www.coursera.org/course/genomescience)
+- [Experimental Genome Science](https://www.coursera.org/course/genomescience)
 
-[Genomic Medicine Gets Personal](https://www.edx.org/course/georgetownx/georgetownx-medx202-01-genomic-medicine-837)
+- [Genomic Medicine Gets Personal](https://www.edx.org/course/georgetownx/georgetownx-medx202-01-genomic-medicine-837)
 
-[Data Analysis for Genomics](https://www.edx.org/course/harvardx/harvardx-ph525x-data-analysis-genomics-1401)
+- [Data Analysis for Genomics](https://www.edx.org/course/harvardx/harvardx-ph525x-data-analysis-genomics-1401)
 
 ## Systems Biology
 
-[Introduction to Systems Biology](https://www.coursera.org/course/sysbio)
+- [Introduction to Systems Biology](https://www.coursera.org/course/sysbio)
 
-[Experimental Methods in Systems Biology ](https://www.coursera.org/course/expmethods)
+- [Experimental Methods in Systems Biology ](https://www.coursera.org/course/expmethods)
 
-[Network Analysis in Systems Biology](https://www.coursera.org/course/netsysbio)
+- [Network Analysis in Systems Biology](https://www.coursera.org/course/netsysbio)
 
-[Dynamical Modeling Methods for Systems Biology ](https://www.coursera.org/course/dynamicalmodeling)
+- [Dynamical Modeling Methods for Systems Biology ](https://www.coursera.org/course/dynamicalmodeling)
 
-[Integrated Analysis in Systems Biology ](https://www.coursera.org/course/integratedanalysis)
+- [Integrated Analysis in Systems Biology ](https://www.coursera.org/course/integratedanalysis)
 
 
 ##Machine Learning
-[Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
+- [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
 
-[Learning from Data](https://work.caltech.edu/telecourse.html)
+- [Learning from Data](https://work.caltech.edu/telecourse.html)
 
-[Introduction to Linear Models and Matrix Algebra](https://www.edx.org/course/introduction-linear-models-matrix-harvardx-ph525-2x)
+- [Introduction to Linear Models and Matrix Algebra](https://www.edx.org/course/introduction-linear-models-matrix-harvardx-ph525-2x)
 
-[Genomic Data Science and Clustering (Bioinformatics V) ](https://www.coursera.org/course/clustering)
+- [Genomic Data Science and Clustering (Bioinformatics V) ](https://www.coursera.org/course/clustering)
 
 
 ## Statistics for Life Science
-[Statistics and R for the Life Sciences](https://www.edx.org/course/statistics-r-life-sciences-harvardx-ph525-1x)
+- [Statistics and R for the Life Sciences](https://www.edx.org/course/statistics-r-life-sciences-harvardx-ph525-1x)
 
-[Advanced Statistics for the Life Sciences](https://www.edx.org/course/advanced-statistics-life-sciences-harvardx-ph525-3x)
+- [Advanced Statistics for the Life Sciences](https://www.edx.org/course/advanced-statistics-life-sciences-harvardx-ph525-3x)
 
-[Statistics for Genomic Data Science ](https://www.coursera.org/course/genstats)
+- [Statistics for Genomic Data Science ](https://www.coursera.org/course/genstats)
 
 ## Specilization Courses on Coursera
-[Bioinformatics](https://www.coursera.org/specialization/bioinformatics/34)
+- [Bioinformatics](https://www.coursera.org/specialization/bioinformatics/34)
 
-[Genomic Data Science](https://www.coursera.org/specialization/genomics/41)
+- [Genomic Data Science](https://www.coursera.org/specialization/genomics/41)
 
-[Systems Biology](https://www.coursera.org/specialization/systemsbiology/6)
+- [Systems Biology](https://www.coursera.org/specialization/systemsbiology/6)
 
 
 
