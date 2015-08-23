@@ -1,8 +1,8 @@
-# MOOCs on Computational Biology and Bioinformatics
+## MOOCs on Computational Biology and Bioinformatics
 
 Here is the list of Massive Open Online Courses (MOOCs) useful for people who are interested to learn about Computational Biology and Bioinformatics.
 
-## Bioinformatics and Computational Biology
+### Bioinformatics and Computational Biology
 
 - [Bioinformatics Algorithms I](https://www.coursera.org/course/bioinformatics)
 
@@ -35,7 +35,7 @@ Here is the list of Massive Open Online Courses (MOOCs) useful for people who ar
 - [Genomic Data Science with Galaxy ](https://www.coursera.org/course/gengalaxy)
 
 
-## Algorithm and Programming
+### Algorithm and Programming
 - [Algorithms, Biology, and Programming for Beginners](https://www.coursera.org/course/algobioprogramming)
 
 - [Python for Genomic Data Science ](https://www.coursera.org/course/genpython)
@@ -49,7 +49,7 @@ Here is the list of Massive Open Online Courses (MOOCs) useful for people who ar
 - [Introduction to Bioconductor](https://www.edx.org/course/introduction-bioconductor-harvardx-ph525-4x)
 
 
-## Genomics, Epigenomics
+### Genomics, Epigenomics
 - [Introduction to Genomic Technologies ](https://www.coursera.org/course/genintro)
 
 - [Epigenetic Control of Gene Expression](https://www.coursera.org/course/epigenetics)
@@ -60,7 +60,7 @@ Here is the list of Massive Open Online Courses (MOOCs) useful for people who ar
 
 - [Data Analysis for Genomics](https://www.edx.org/course/harvardx/harvardx-ph525x-data-analysis-genomics-1401)
 
-## Systems Biology
+### Systems Biology
 
 - [Introduction to Systems Biology](https://www.coursera.org/course/sysbio)
 
@@ -73,7 +73,7 @@ Here is the list of Massive Open Online Courses (MOOCs) useful for people who ar
 - [Integrated Analysis in Systems Biology ](https://www.coursera.org/course/integratedanalysis)
 
 
-##Machine Learning
+###Machine Learning
 - [Machine Learning](https://www.coursera.org/learn/machine-learning), by Andrew Ng, Stanford University
 
 - [Learning from Data](https://work.caltech.edu/telecourse.html), by Yaser S. Abu-Mostafa, California Institute of Technology.
@@ -83,14 +83,14 @@ Here is the list of Massive Open Online Courses (MOOCs) useful for people who ar
 - [Genomic Data Science and Clustering (Bioinformatics V) ](https://www.coursera.org/course/clustering), University of California, San Diego
 
 
-## Statistics for Life Science
+### Statistics for Life Science
 - [Statistics and R for the Life Sciences](https://www.edx.org/course/statistics-r-life-sciences-harvardx-ph525-1x)
 
 - [Advanced Statistics for the Life Sciences](https://www.edx.org/course/advanced-statistics-life-sciences-harvardx-ph525-3x)
 
 - [Statistics for Genomic Data Science ](https://www.coursera.org/course/genstats)
 
-## Specilization Courses on Coursera
+### Specilization Courses on Coursera
 - [Bioinformatics](https://www.coursera.org/specialization/bioinformatics/34), University of California, San Diego
 
 - [Genomic Data Science](https://www.coursera.org/specialization/genomics/41), Johns Hopkins University
