@@ -74,13 +74,13 @@ Here is the list of Massive Open Online Courses (MOOCs) useful for people who ar
 
 
 ##Machine Learning
-- [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
+- [Machine Learning](https://www.coursera.org/learn/machine-learning), by Andrew Ng, Stanford University
 
-- [Learning from Data](https://work.caltech.edu/telecourse.html)
+- [Learning from Data](https://work.caltech.edu/telecourse.html), by Yaser S. Abu-Mostafa, California Institute of Technology.
 
-- [Introduction to Linear Models and Matrix Algebra](https://www.edx.org/course/introduction-linear-models-matrix-harvardx-ph525-2x)
+- [Introduction to Linear Models and Matrix Algebra](https://www.edx.org/course/introduction-linear-models-matrix-harvardx-ph525-2x), Harvard University
 
-- [Genomic Data Science and Clustering (Bioinformatics V) ](https://www.coursera.org/course/clustering)
+- [Genomic Data Science and Clustering (Bioinformatics V) ](https://www.coursera.org/course/clustering), University of California, San Diego
 
 
 ## Statistics for Life Science
@@ -91,12 +91,11 @@ Here is the list of Massive Open Online Courses (MOOCs) useful for people who ar
 - [Statistics for Genomic Data Science ](https://www.coursera.org/course/genstats)
 
 ## Specilization Courses on Coursera
-- [Bioinformatics](https://www.coursera.org/specialization/bioinformatics/34)
+- [Bioinformatics](https://www.coursera.org/specialization/bioinformatics/34), University of California, San Diego
 
-- [Genomic Data Science](https://www.coursera.org/specialization/genomics/41)
+- [Genomic Data Science](https://www.coursera.org/specialization/genomics/41), Johns Hopkins University
 
-- [Systems Biology](https://www.coursera.org/specialization/systemsbiology/6)
-
+- [Systems Biology](https://www.coursera.org/specialization/systemsbiology/6), Icahn School of Medicine at Mount Sinai
 
 
 
