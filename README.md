@@ -48,9 +48,11 @@ Here is the list of Massive Open Online Courses (MOOCs) useful for people who ar
 
 [Advanced Statistics for the Life Sciences](https://www.edx.org/course/advanced-statistics-life-sciences-harvardx-ph525-3x)
 
-## Specilization Courses
+## Specilization Courses on Coursera
 [Bioinformatics](https://www.coursera.org/specialization/bioinformatics/34)
+
 [Genomic Data Science](https://www.coursera.org/specialization/genomics/41)
+
 [Systems Biology](https://www.coursera.org/specialization/systemsbiology/6)
 
 
