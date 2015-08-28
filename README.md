@@ -50,8 +50,11 @@ Here is the list of Massive Open Online Courses (MOOCs) useful for people who ar
 
 ### Biology and Molecular Biology
 - [Introduction to Biology - The Secret of Life](https://www.edx.org/course/introduction-biology-secret-life-mitx-7-00x-2)
+
 - [DNA: Biology’s Genetic Code](https://www.edx.org/course/dna-biologys-genetic-code-ricex-bioc300-2x)
+
 - [Molecular Biology - Part 1: DNA Replication and Repair](https://www.edx.org/course/molecular-biology-part-1-dna-replication-mitx-7-28-1x1)
+
 - [Molecular Biology – Part 2: Transcription and Transposition](https://www.edx.org/course/molecular-biology-part-2-transcription-mitx-7-28-2x)
 
 ### Genomics, Epigenomics
