@@ -20,8 +20,6 @@ Here is the list of Massive Open Online Courses (MOOCs) useful for people who ar
 
 - [Finding Mutations in DNA and Proteins (Bioinformatics VI) ](https://www.coursera.org/course/mutations)
 
-- [Cancer in the 21st Century: The Genomic Revolution](https://www.futurelearn.com/courses/cancer-and-the-genomic-revolution)
-
 - [Genes and the Human Condition (From Behavior to Biotechnology)](https://www.coursera.org/course/genes)
 
 - [Case study: RNA-seq data analysis](https://www.edx.org/course/case-study-rna-seq-data-analysis-harvardx-ph525-5x)
@@ -48,7 +46,7 @@ Here is the list of Massive Open Online Courses (MOOCs) useful for people who ar
 
 - [Introduction to Bioconductor](https://www.edx.org/course/introduction-bioconductor-harvardx-ph525-4x)
 
-### Biology and Molecular Biology
+### Introduction to Biology and Molecular Biology
 - [Introduction to Biology - The Secret of Life](https://www.edx.org/course/introduction-biology-secret-life-mitx-7-00x-2)
 
 - [DNA: Biology’s Genetic Code](https://www.edx.org/course/dna-biologys-genetic-code-ricex-bioc300-2x)
@@ -65,6 +63,8 @@ Here is the list of Massive Open Online Courses (MOOCs) useful for people who ar
 - [Experimental Genome Science](https://www.coursera.org/course/genomescience)
 
 - [Genomic Medicine Gets Personal](https://www.edx.org/course/georgetownx/georgetownx-medx202-01-genomic-medicine-837)
+
+- [Cancer in the 21st Century: The Genomic Revolution](https://www.futurelearn.com/courses/cancer-and-the-genomic-revolution)
 
 - [Data Analysis for Genomics](https://www.edx.org/course/harvardx/harvardx-ph525x-data-analysis-genomics-1401)
 
